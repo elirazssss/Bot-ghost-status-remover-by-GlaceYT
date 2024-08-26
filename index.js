@@ -35,10 +35,6 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-
-const statusMessages = ["Listening to Spotify","Playing VALORANT"];
-
-
 let currentIndex = 0;
 const channelId = '';
 
